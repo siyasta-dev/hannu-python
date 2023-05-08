@@ -25,7 +25,7 @@ def getUPCFromData(data, schema = []):
 
 
 with open('inputs\\1.json') as infile_1, open("outputs\\1.json", "w") as outfile_1, \
-open('inputs\\2.json') as infile_2, open("outputs\\2.json", "w") as outfile_2, \
+open('inputs\\2.json') as infile_2, open("outputs\\2_1.json", "w") as outfile_2_1, open("outputs\\2_2.json", "w") as outfile_2_2, \
 open('inputs\\3.json') as infile_3, open("outputs\\3.json", "w") as outfile_3, \
 open('inputs\\4.json') as infile_4, open("outputs\\4.json", "w") as outfile_4, \
 open('inputs\\5.json') as infile_5, open("outputs\\5.json", "w") as outfile_5:
@@ -54,7 +54,8 @@ open('inputs\\5.json') as infile_5, open("outputs\\5.json", "w") as outfile_5:
     
     #Just writing the output
     json.dump(result_1, outfile_1, indent= 2)
-    json.dump(result_2, outfile_2, indent= 2)
+    json.dump(result_2_1, outfile_2_1, indent= 2)
+    json.dump(result_2_2, outfile_2_2, indent= 2)
     json.dump(result_3, outfile_3, indent= 2)
     json.dump(result_4, outfile_4, indent= 2)
     json.dump(result_5, outfile_5, indent= 2)
