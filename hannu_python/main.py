@@ -12,8 +12,6 @@ def getUPCFromData(data, schema = []):
             else:
                 sub_rows = 'subRows'
                 
-            if len(data[sub_rows]) == 0:
-                return []
             if len(schema) > 0:
                 result += map(lambda sub_row: sub_row | {schema[0]: data['name']}, 
                             getUPCFromData(data[sub_rows], schema[1:]))
