@@ -27,16 +27,19 @@ def getUPCFromData(data):
 with open('input.json') as input_file:
     payload = json.loads(input_file.read())
 
-result = getUPCFromData(payload[2])
+# this is the real deal, calling with index 2 to get customer data
+# Call with index 1 to get MFF data
+result = getUPCFromData(payload[2]) 
 
 with open("output.json", "w") as outfile:
     json.dump(result, outfile, indent= 2)
     
-# Scenario of old_input.json where you query for MFF using index number of data property
+# Scenario of old_input.json where you Just send the whole json and see the magic.
 with open('old_input.json') as input_file:
     payload = json.loads(input_file.read())
 
-result = getUPCFromData(payload['data'][2])
+# Again, real deal is here.
+result = getUPCFromData(payload) 
 
 with open("old_output.json", "w") as outfile:
     json.dump(result, outfile, indent= 2)
