@@ -19,6 +19,8 @@ def getUPCFromData(data, schema = []):
                             getUPCFromData(data[sub_rows], schema[1:]))
             else:
                 result += getUPCFromData(data[sub_rows], [])
+        elif 'data' in data:
+            result += getUPCFromData(data['data'], schema)
         else:
             result.append(data)
     return result
