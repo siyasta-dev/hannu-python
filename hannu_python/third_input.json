@@ -1,0 +1,2222 @@
+[
+    {
+        "name": "HV BHV Orig",
+        "volume_msc": 2732954.95,
+        "volume_percent": 67.2,
+        "inventory": 2984103.74,
+        "fdos": 28.64,
+        "fdos_range": "35-45",
+        "subRows": [
+            {
+                "name": "Salad Dressing-Bottled",
+                "volume_msc": 2732954.95,
+                "volume_percent": 67.2,
+                "inventory": 2984103.74,
+                "fdos": 28.64,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 6,
+                        "name": "BHV OrRnch 6/16fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 25,
+                        "name": "BHV OrRnch 12/8fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 189,
+                        "name": "BHV EZS OrRnch 6/20fo",
+                        "volume_msc": 133747.13117491984,
+                        "volume_percent": 3.2888135365884743,
+                        "inventory": 84395.81083293207,
+                        "fdos": 0.5965990596053101,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 501,
+                        "name": "BHV OrRnch 9/52fo",
+                        "volume_msc": 116145.67252277571,
+                        "volume_percent": 2.855997408344454,
+                        "inventory": 157803.3731267724,
+                        "fdos": 1.2441465371536726,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 632,
+                        "name": "BHV OrRnch 12/16fo Displ",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 8596,
+                        "name": "BHV OrRnch 128/24fo 1/4 PAL",
+                        "volume_msc": 14520.380953179554,
+                        "volume_percent": 0.35705308230337074,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 11098,
+                        "name": "BHV LtOrRnch 6/16fo FRM2",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 11140,
+                        "name": "BHV LtOrRnch 12/8fo FRM2",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 11256,
+                        "name": "BHV EZS LtOrRnch 6/20fo FRM2",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 11324,
+                        "name": "BHV OrRnch 6/2x40fo CLUB CON2",
+                        "volume_msc": 248486.02007713582,
+                        "volume_percent": 6.110218434621086,
+                        "inventory": 242064.86469790194,
+                        "fdos": 0.9251849842751177,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 12597,
+                        "name": "BHV OrRnch 6/473 mL CA",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 12599,
+                        "name": "BHV LtOrRnch 6/473 mL CA",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 14135,
+                        "name": "BHV HmeRnch 6/2x1.18l CA",
+                        "volume_msc": 119125.81444213734,
+                        "volume_percent": 2.9292784649118135,
+                        "inventory": 48814.25286922339,
+                        "fdos": 0.26615085253312293,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 14441,
+                        "name": "BHV OrRnch 12/36fo PAK3",
+                        "volume_msc": 404819.18044145737,
+                        "volume_percent": 9.95441762982783,
+                        "inventory": 416320.2044535791,
+                        "fdos": 0.9201397877126765,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 14516,
+                        "name": "BHV LtOrRnch 6/36fo",
+                        "volume_msc": 36754.6574868296,
+                        "volume_percent": 0.9037892178581942,
+                        "inventory": 45726.91267030194,
+                        "fdos": 1.1767019011751143,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 14526,
+                        "name": "BHV OrRnch 36/16fo SHP",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 14575,
+                        "name": "BHV Btmlk 6/36fo",
+                        "volume_msc": 33297.966433343674,
+                        "volume_percent": 0.8187899193413481,
+                        "inventory": 45502.379498763075,
+                        "fdos": 1.0503067369327812,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 17842,
+                        "name": "BHV LtOrRnch 6/52fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 19230,
+                        "name": "BHV OrRnch 192/16fo 1/4 PAL",
+                        "volume_msc": 18410.35742248652,
+                        "volume_percent": 0.45270677712943513,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26246,
+                        "name": "BHV OrRnch 12/8fo PK03",
+                        "volume_msc": 52105.56958073293,
+                        "volume_percent": 1.2812648844381451,
+                        "inventory": 60294.729442853655,
+                        "fdos": 1.0085170129759604,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26248,
+                        "name": "BHV OrRnch 6/24fo PK03",
+                        "volume_msc": 298142.7630114173,
+                        "volume_percent": 7.331267192157226,
+                        "inventory": 437715.78604659886,
+                        "fdos": 1.2868298107381817,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26249,
+                        "name": "BHV OrRnch 6/16fo PK03",
+                        "volume_msc": 285437.4669944716,
+                        "volume_percent": 7.018846662761003,
+                        "inventory": 352021.8679824282,
+                        "fdos": 1.0137587875168923,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26250,
+                        "name": "BHV OrRnch 3/2x24fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 1099.9452145393516,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26291,
+                        "name": "BHV LtBtrRnch 6/16fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26297,
+                        "name": "BHV OrRnch 6/473 mL CA PK03",
+                        "volume_msc": 15621.553790302038,
+                        "volume_percent": 0.384130688387613,
+                        "inventory": 14978.446209697962,
+                        "fdos": 0.847498174692495,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26298,
+                        "name": "BHV FFOrRnch 6/473 mL CA PK03",
+                        "volume_msc": 4954.847809265902,
+                        "volume_percent": 0.1218386548085091,
+                        "inventory": 4735.152190734098,
+                        "fdos": 3.9470304381468195,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26299,
+                        "name": "BHV LtOrRnch 6/473 mL CA PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 293.0,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26306,
+                        "name": "BHV FFOrRnch 6/16fo PK03",
+                        "volume_msc": 19191.20636860081,
+                        "volume_percent": 0.471907686797194,
+                        "inventory": 22128.463465562127,
+                        "fdos": 1.1863467551854487,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26307,
+                        "name": "BHV FFOrRnch 6/24fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26308,
+                        "name": "BHV OrRnchOFBtmlk 6/16fo PK03",
+                        "volume_msc": 61021.93113656994,
+                        "volume_percent": 1.5005163205201828,
+                        "inventory": 53907.16816668885,
+                        "fdos": 0.8964709579829382,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26309,
+                        "name": "BHV OrRnchOFBtmlk 6/24fo PK03",
+                        "volume_msc": 63847.18038923298,
+                        "volume_percent": 1.5699885993254947,
+                        "inventory": 75106.97879091823,
+                        "fdos": 1.2337075705418432,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26310,
+                        "name": "BHV LtOrRnch 6/16fo PK03",
+                        "volume_msc": 75652.6006100279,
+                        "volume_percent": 1.8602813741027548,
+                        "inventory": 94748.95871140511,
+                        "fdos": 1.1917709861173904,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26311,
+                        "name": "BHV LtOrRnch 6/24fo PK03",
+                        "volume_msc": 55716.599676011676,
+                        "volume_percent": 1.3700593471982414,
+                        "inventory": 61108.26526494533,
+                        "fdos": 1.096505269807233,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26945,
+                        "name": "BHV OrRnch 36/16fo SHP PK03",
+                        "volume_msc": 46315.342789712515,
+                        "volume_percent": 1.138884437972194,
+                        "inventory": 47271.413190746294,
+                        "fdos": 1.363412941842747,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 27236,
+                        "name": "BHV OrRnch 24/24fo SHP PK03",
+                        "volume_msc": 6092.798450197719,
+                        "volume_percent": 0.14982061927376178,
+                        "inventory": 9252.53328285423,
+                        "fdos": 1.8846098595828402,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 27444,
+                        "name": "BHV OrRnch 6/36fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 27445,
+                        "name": "BHV OrRnch 4/52fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 27465,
+                        "name": "BHV HmeRnch 6/2x40fo CON1",
+                        "volume_msc": 22522.403045557072,
+                        "volume_percent": 0.5538211052606077,
+                        "inventory": 28111.578426173513,
+                        "fdos": 1.349109231315633,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 27466,
+                        "name": "BHV Hme LtOrRnch 6/2x40fo CON1",
+                        "volume_msc": 6385.346093003634,
+                        "volume_percent": 0.1570143036489341,
+                        "inventory": 10554.63323891427,
+                        "fdos": 1.6420433460490864,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 27586,
+                        "name": "BHV OrRnch 8/8fo PK01",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 30581,
+                        "name": "BHV Btmlk SRnch 6/12fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 31261,
+                        "name": "BHV OrRnch 6/1.06l CA",
+                        "volume_msc": 7496.065567697065,
+                        "volume_percent": 0.18432665952254695,
+                        "inventory": 6183.934432302935,
+                        "fdos": 0.8967217986073525,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 31643,
+                        "name": "BHV OrRnch 12/16fo SRU PK01",
+                        "volume_msc": 125657.23317598723,
+                        "volume_percent": 3.0898846637611914,
+                        "inventory": 141404.3577808483,
+                        "fdos": 0.9997752737115938,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 31669,
+                        "name": "BHV OrRnch 12/24fo SRU PK01",
+                        "volume_msc": 245605.62555866392,
+                        "volume_percent": 6.03939014544697,
+                        "inventory": 289564.8227505262,
+                        "fdos": 1.0410885743590659,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32538,
+                        "name": "BHV HmeRnch 6/2x40fo PK01",
+                        "volume_msc": 168190.23036130937,
+                        "volume_percent": 4.135762027005882,
+                        "inventory": 209734.90242194058,
+                        "fdos": 1.162711537619207,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 60837,
+                        "name": "BHV OrRnch 36/16oz SHP NRM PK04",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 63547,
+                        "name": "BHV Rnch Drsng Bfflo 6/20fo",
+                        "volume_msc": 47690.99999999998,
+                        "volume_percent": 1.1727115564692776,
+                        "inventory": 23259.000000000022,
+                        "fdos": 0.41727664155005406,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "HV DHV",
+        "volume_msc": 823014.15,
+        "volume_percent": 20.24,
+        "inventory": 1090312.65,
+        "fdos": 44.71,
+        "fdos_range": "35-45",
+        "subRows": [
+            {
+                "name": "Salad Dressing-Dry",
+                "volume_msc": 690635.64,
+                "volume_percent": 16.98,
+                "inventory": 939115.46,
+                "fdos": 36.48,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 50,
+                        "name": "DHV DrsngSsng OrRnch 24/1oz",
+                        "volume_msc": 67983.24414833322,
+                        "volume_percent": 1.6716935283181897,
+                        "inventory": 76355.96772907376,
+                        "fdos": 1.0891164435176754,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 70,
+                        "name": "DHV DrsngSsng OrRnch 24/2x1oz",
+                        "volume_msc": 13295.522296057226,
+                        "volume_percent": 0.3269340681864767,
+                        "inventory": 27717.012281332776,
+                        "fdos": 0.9306484593828112,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 130,
+                        "name": "DHV Drsng Mx OrRnch BM 24/.4oz",
+                        "volume_msc": 26602.636593230098,
+                        "volume_percent": 0.6541531812172829,
+                        "inventory": 28476.83510393322,
+                        "fdos": 1.1076823242569829,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 179,
+                        "name": "DHV DrsngSsng OrRnch 6/4x1oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 489,
+                        "name": "DHV OrRnch 1/20lb Fran",
+                        "volume_msc": 26989.848982067517,
+                        "volume_percent": 0.6636746515827129,
+                        "inventory": 25472.262438818398,
+                        "fdos": 1.1011541082736875,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 941,
+                        "name": "BHV OrRnch 1/33.2lb Prebl Fran",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 1438,
+                        "name": "BHV OrRnch 1/46.6lb Prebl Fran",
+                        "volume_msc": 13784.772118271307,
+                        "volume_percent": 0.33896461735741024,
+                        "inventory": 19256.75750052544,
+                        "fdos": 1.4239216665677508,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 2323,
+                        "name": "BHV FFOrRnch 1/28.5lb Prebl Fran",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 46.24337074782068,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 7373,
+                        "name": "DHV OilVin HrbSpc 1/20lb 40ga Fran",
+                        "volume_msc": 1388.0,
+                        "volume_percent": 0.03413062507348048,
+                        "inventory": 1939.999999999999,
+                        "fdos": 4.397694524495676,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 8442,
+                        "name": "DHV DrsngSsng OrRnch 240/1oz FS PAK1",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 11957,
+                        "name": "DHV Btmlk noMSG 12/3.2oz 1gal INST",
+                        "volume_msc": 13533.018970325182,
+                        "volume_percent": 0.33277406094270007,
+                        "inventory": 18537.14461215905,
+                        "fdos": 1.4048282727680277,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 11959,
+                        "name": "DHV BlueChs 18/3.1oz 1gal INST",
+                        "volume_msc": 3184.3925287327247,
+                        "volume_percent": 0.07830353565199501,
+                        "inventory": 5863.146265411667,
+                        "fdos": 1.8986496478094932,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 13573,
+                        "name": "DHV DrsngSsng SpcyRnch 24/1oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 14316,
+                        "name": "DHV BtmlkRnch 6/4x0.40oz",
+                        "volume_msc": 4818.114390107061,
+                        "volume_percent": 0.11847640908493169,
+                        "inventory": 3106.7796693679556,
+                        "fdos": 0.709365747245444,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20880,
+                        "name": "DHV OrRnch w/Mlk 1/18lb",
+                        "volume_msc": 269.67305359508975,
+                        "volume_percent": 0.006631203086941368,
+                        "inventory": 6836.655755616542,
+                        "fdos": 3.182294291057506,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 21115,
+                        "name": "DHV OrRnch a/Mlk 12/8oz INST",
+                        "volume_msc": 6585.0986852238975,
+                        "volume_percent": 0.1619261774475837,
+                        "inventory": 8092.325461536752,
+                        "fdos": 1.2557935896417833,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 25243,
+                        "name": "DHV DrsngSsng OrRnch 12/1oz PK01",
+                        "volume_msc": 4661.624245653883,
+                        "volume_percent": 0.11462834968433644,
+                        "inventory": 5084.9913965792575,
+                        "fdos": 1.1969974679420259,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 27251,
+                        "name": "DHV JRnch Drsng Mx 18/3.2oz 1g INST",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 27344,
+                        "name": "DHV Btmlk noMSG 1/18lb 90gal INST",
+                        "volume_msc": 733.6599669199929,
+                        "volume_percent": 0.018040542696230816,
+                        "inventory": 2960.0661253087155,
+                        "fdos": 4.325810928837745,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 28796,
+                        "name": "DHV DrsngSsngCanOrRnch 3/2x8oz eCom",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 28797,
+                        "name": "DHV DrsngSsng OrRnch 3/2x4oz",
+                        "volume_msc": 2778.567104794666,
+                        "volume_percent": 0.06832437470839546,
+                        "inventory": 5518.8668984388705,
+                        "fdos": 1.4221204105513918,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 29302,
+                        "name": "DHV DrsngSsng Can OrRnch 6/8oz PK01",
+                        "volume_msc": 90.33130810917108,
+                        "volume_percent": 0.0022212276725296584,
+                        "inventory": 145408.02003218487,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 29303,
+                        "name": "DHV Can OrRnch w/Mlk 6/16oz PK01",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 29494,
+                        "name": "DHV SRnch 12/3.2oz 1Gal INST",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 29495,
+                        "name": "DHV HnyMus 12/8oz 1Gal INST",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 29496,
+                        "name": "DHV Csar 12/8.7oz 1Gal INST",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 29497,
+                        "name": "DHV Vin 12/8.5oz 1Gal INST",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 30656,
+                        "name": "DHV GdnItal 18/8oz 1gal INST PK01",
+                        "volume_msc": 1517.0517928030467,
+                        "volume_percent": 0.03730398123718458,
+                        "inventory": 1739.921245406832,
+                        "fdos": 1.1710197317159978,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 31190,
+                        "name": "DHV Can OrRnch 16/16oz Exc",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 960.03,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 31321,
+                        "name": "DHV DrsngSsng Can OrRnch 32/8ozSKFS",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32335,
+                        "name": "DHV Rnch RcpMix Rcho Tco 24/1oz",
+                        "volume_msc": 7852.358732671244,
+                        "volume_percent": 0.1930878327429918,
+                        "inventory": 12197.553477986512,
+                        "fdos": 1.5753222405091378,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32336,
+                        "name": "DHV Rnch RcpMix Zsty Pto 24/1oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32337,
+                        "name": "DHV Rnch RcpMix BtmlkChkn 24/1oz",
+                        "volume_msc": 8320.169384638757,
+                        "volume_percent": 0.20459119727302325,
+                        "inventory": 12853.726894093874,
+                        "fdos": 1.5521378500888863,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32338,
+                        "name": "DHV RcpMix BlkPeprParm 24/1 oz",
+                        "volume_msc": 855.6125640990207,
+                        "volume_percent": 0.021039331147999253,
+                        "inventory": 3347.3012372070802,
+                        "fdos": 2.4961146231146794,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32887,
+                        "name": "DHV OrRnch 18/3.2oz 1gal INST CON1",
+                        "volume_msc": 205460.04074854072,
+                        "volume_percent": 5.052218745223679,
+                        "inventory": 208302.29730494058,
+                        "fdos": 1.027382574354262,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33065,
+                        "name": "DHV DrsngSsng OrRnch 12/2x1oz",
+                        "volume_msc": 14697.784797399117,
+                        "volume_percent": 0.36141540513741405,
+                        "inventory": 23260.884248851675,
+                        "fdos": 1.415660251653706,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33412,
+                        "name": "DHV Can HmeRnch 16/20oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 1186.6369999999997,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33418,
+                        "name": "DHV DrsngSsng OrRnch 6/4x1oz PK01",
+                        "volume_msc": 59322.970663006054,
+                        "volume_percent": 1.4587392434756064,
+                        "inventory": 77475.39977934865,
+                        "fdos": 1.1408449168917287,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33738,
+                        "name": "DHV Can SpcyRnch 16/16oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33809,
+                        "name": "DHV DrsngSsng OrRnch 120/1oz FS",
+                        "volume_msc": 3823.182147049559,
+                        "volume_percent": 0.09401123663441832,
+                        "inventory": 5997.131421935154,
+                        "fdos": 1.2857046494843454,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 34194,
+                        "name": "DHV SpcyRnch Ssng 24/1oz FM01",
+                        "volume_msc": 5130.413072757351,
+                        "volume_percent": 0.12615576733311537,
+                        "inventory": 7645.7808050625745,
+                        "fdos": 1.3835662126050157,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 34196,
+                        "name": "DHV Can SpcyRnch Ssng 16/16oz FM01",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 34197,
+                        "name": "DHV Can SpcyRnch Ssng 6/8oz",
+                        "volume_msc": 71.6942811330839,
+                        "volume_percent": 0.0017629471392406285,
+                        "inventory": 47682.48979229457,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 60328,
+                        "name": "DHV Can HmeRnch 16/20oz PK01",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 60330,
+                        "name": "DHV Can HmeRnch 16/20oz 3Lay PK01",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 213.328,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 60699,
+                        "name": "DHV DrsngSsng Can OrRnch 6/8oz PK02",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 60808,
+                        "name": "DHV DrsngSsng OrRnch 120/1oz FS PK01",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 60867,
+                        "name": "DHV Rnch RcpMix ZstyAlfrd 24/1oz",
+                        "volume_msc": 3733.3765393582453,
+                        "volume_percent": 0.09180293582346133,
+                        "inventory": 10134.44268221282,
+                        "fdos": 2.706770154236454,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 61738,
+                        "name": "DHV DrsngSsng OrRnch 60/1ct FS",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 1085.0000000000005,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 62314,
+                        "name": "DHV Can HmeRnch 16/20oz PK02",
+                        "volume_msc": 19884.504140130426,
+                        "volume_percent": 0.4889557316850591,
+                        "inventory": 10591.380256894343,
+                        "fdos": 0.6406990406697611,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 62334,
+                        "name": "DHV Can OrRnch 16/16oz Exc PK01",
+                        "volume_msc": 67875.96470388644,
+                        "volume_percent": 1.6690555495743105,
+                        "inventory": 55894.9503523444,
+                        "fdos": 0.847335888485767,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 62335,
+                        "name": "DHV Can OrRnch w/Mlk 6/16oz PK02",
+                        "volume_msc": 4188.442770111522,
+                        "volume_percent": 0.10299291774380863,
+                        "inventory": 4424.323927313171,
+                        "fdos": 1.0728855053758983,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 62337,
+                        "name": "DHV DrsngSsng Can OrRnch 6/8oz PK04",
+                        "volume_msc": 95017.30200044818,
+                        "volume_percent": 2.336455266621732,
+                        "inventory": 71823.7881013252,
+                        "fdos": 0.7224526916294374,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 62690,
+                        "name": "DHV DrsngSsng Can OrRnch 32/8ozSKFS PK01",
+                        "volume_msc": 6186.263715106199,
+                        "volume_percent": 0.15211891027807362,
+                        "inventory": 1626.0171492040345,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Dip-Dry",
+                "volume_msc": 125120.13,
+                "volume_percent": 3.08,
+                "inventory": 146244.89,
+                "fdos": 7.5,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 66,
+                        "name": "DHV Dip OrRnch 24/1oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 123,
+                        "name": "DHV Dip Mx OrRnch 12/2x1oz",
+                        "volume_msc": 6792.23881390819,
+                        "volume_percent": 0.16701970919815726,
+                        "inventory": 8978.530684466625,
+                        "fdos": 1.2458182866196983,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 8082,
+                        "name": "DHV Dip OrRnch 1/120x1oz SHP",
+                        "volume_msc": 7582.069080576313,
+                        "volume_percent": 0.1864414676299561,
+                        "inventory": 9230.870971894308,
+                        "fdos": 1.054426600366625,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 8443,
+                        "name": "DHV Dip OrRnch 240/1oz SHP PAK1",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 12400,
+                        "name": "DHV Dip Mx OrRnch 6/4x1oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 13568,
+                        "name": "DHV Dip CrmDlRnch 24/0.90oz",
+                        "volume_msc": 4601.895566391608,
+                        "volume_percent": 0.11315963415261102,
+                        "inventory": 7614.672960759237,
+                        "fdos": 1.4484056087342783,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 13570,
+                        "name": "DHV Dip ChvOn 24/0.90oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 13723,
+                        "name": "DHV Dip FstaRnch 24/1.1oz PAK1",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 2.0,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 19788,
+                        "name": "DHV Dip OrRnch 24/1oz Clpstp",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 21545,
+                        "name": "DHV Dip OrRnch Soy 12/1oz",
+                        "volume_msc": 1901.0900700602847,
+                        "volume_percent": 0.04674740087330283,
+                        "inventory": 2479.9793762645563,
+                        "fdos": 1.2960498649530403,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 24847,
+                        "name": "DHV Drsng OrRnch 312/28g CA",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 65.0,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33419,
+                        "name": "DHV Dip Mx OrRnch 6/4x1oz PK01",
+                        "volume_msc": 41911.818526462994,
+                        "volume_percent": 1.030602712013301,
+                        "inventory": 46750.484111797305,
+                        "fdos": 1.0324723969978336,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 34011,
+                        "name": "DHV Dip OrRnch 24/1oz PK01",
+                        "volume_msc": 45271.00845494391,
+                        "volume_percent": 1.1132044785836137,
+                        "inventory": 51210.24061381512,
+                        "fdos": 1.114011783353392,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 60866,
+                        "name": "DHV Rnch RcpMix BffloRnch 24/1oz",
+                        "volume_msc": 4116.656601077395,
+                        "volume_percent": 0.10122771110060598,
+                        "inventory": 4877.999932023276,
+                        "fdos": 1.2516208078901296,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 62542,
+                        "name": "DHV Dip FstaRnch 24/1.1oz FM01",
+                        "volume_msc": 12943.356060724538,
+                        "volume_percent": 0.31827437528901337,
+                        "inventory": 15035.109872620895,
+                        "fdos": 1.0597675268515865,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Salad Dressing-Bottled",
+                "volume_msc": 7258.38,
+                "volume_percent": 0.18,
+                "inventory": 4952.3,
+                "fdos": 0.72,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 63192,
+                        "name": "BHV OrRnch 1/33.2lb PrblndFrchsRfrm",
+                        "volume_msc": 7258.377965751521,
+                        "volume_percent": 0.17848197189530055,
+                        "inventory": 4952.301704246553,
+                        "fdos": 0.7246163043752585,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Simply Dinner Breading Kit",
+                "volume_msc": 0.0,
+                "volume_percent": 0.0,
+                "inventory": 0.0,
+                "fdos": 0.0,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 28519,
+                        "name": "HV SDnr Brd Kit ClasRnch 6/3.38oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 28520,
+                        "name": "HV SDnr BrdKit ParmHrbRnch 6/3.38oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "HV BHV All Other",
+        "volume_msc": 223823.96,
+        "volume_percent": 5.5,
+        "inventory": 377000.35,
+        "fdos": 24.05,
+        "fdos_range": "35-45",
+        "subRows": [
+            {
+                "name": "Salad Dressing-Bottled",
+                "volume_msc": 188005.33,
+                "volume_percent": 4.62,
+                "inventory": 328761.0,
+                "fdos": 21.6,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 83,
+                        "name": "BHV OrRnch w/Bcn 6/16fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 7403,
+                        "name": "BHV SpcyRnch 6/16fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 24027,
+                        "name": "BHV GrkYogDrsng Rnch 6/12fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 24029,
+                        "name": "BHV GrkYogDrsng CucDill 6/12fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26261,
+                        "name": "BHV OrRnch w/Bcn 6/16fo PK03",
+                        "volume_msc": 19595.530503244696,
+                        "volume_percent": 0.48184993135604837,
+                        "inventory": 20908.722109646875,
+                        "fdos": 0.9776770377088987,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26266,
+                        "name": "BHV SpcyRnch 6/16fo PK03",
+                        "volume_msc": 19058.749093346873,
+                        "volume_percent": 0.4686505905436299,
+                        "inventory": 16709.936034005674,
+                        "fdos": 0.8215186119701195,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26290,
+                        "name": "BHV OrRnch w/Bcn 6/24fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26300,
+                        "name": "BHV SpcyRnch 6/24fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26303,
+                        "name": "BHV SpcyRnch 6/473ml CA PK03",
+                        "volume_msc": 884.0,
+                        "volume_percent": 0.02173737216495443,
+                        "inventory": 4195.5,
+                        "fdos": 5.632918552036199,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26321,
+                        "name": "BHV ColSlw 6/16fo PK03",
+                        "volume_msc": 13524.010845461067,
+                        "volume_percent": 0.33255255306636566,
+                        "inventory": 20188.547965170364,
+                        "fdos": 1.2974406833287506,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26322,
+                        "name": "BHV OrgcRnch 6/16fo PK03",
+                        "volume_msc": 5620.830477225363,
+                        "volume_percent": 0.13821502710358163,
+                        "inventory": 4542.226458485153,
+                        "fdos": 1.062672582116548,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26334,
+                        "name": "BHV OrRnch w/Avcd 6/16fo PK03",
+                        "volume_msc": 17620.564649670552,
+                        "volume_percent": 0.433285940663494,
+                        "inventory": 24144.352647221946,
+                        "fdos": 1.3780402006618244,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26335,
+                        "name": "BHV OrRnch w/Cuc 6/16fo PK03",
+                        "volume_msc": 7426.565051377671,
+                        "volume_percent": 0.18261765659393706,
+                        "inventory": 10513.02616806977,
+                        "fdos": 1.457353550892502,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26336,
+                        "name": "BHV OrRnch w/CilLme 6/16fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26342,
+                        "name": "BHV OrRnch w/Bfflo 6/16fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26343,
+                        "name": "BHV OrRnch w/Sri 6/16fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26344,
+                        "name": "BHV GrkTzat 6/473ml CA PK03",
+                        "volume_msc": 3870.0,
+                        "volume_percent": 0.09516247769046793,
+                        "inventory": 5262.0,
+                        "fdos": 1.830654645237162,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26345,
+                        "name": "BHV OrRnch w/Cuc 6/24fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26816,
+                        "name": "BHV SRnch ClscRnch 6/12fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26817,
+                        "name": "BHV SRnch ChlLme 6/12fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 27008,
+                        "name": "BHV OrRnch w/ChBcn 6/16fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 28727,
+                        "name": "BHV EZS SWChptlRnch 6/20fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 28745,
+                        "name": "BHV EZS OrRnchw/JalBcn 6/20fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 30677,
+                        "name": "BHV EZS Blstd Bfflo Rnch 6/12fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 30786,
+                        "name": "BHV EZS Blstd Pzza Rnch 6/12fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 30809,
+                        "name": "BHV ColSlw 6/24fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 31981,
+                        "name": "BHV EZS Blstd Blzn Hot 6/12fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32030,
+                        "name": "HV ScrtSce 6/12fo",
+                        "volume_msc": 26785.401110852115,
+                        "volume_percent": 0.6586473218712401,
+                        "inventory": 41847.54627687479,
+                        "fdos": 1.5285788292098081,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32031,
+                        "name": "BHV Scrt Sce SpcyRnch 6/12fo",
+                        "volume_msc": 14803.252408728335,
+                        "volume_percent": 0.3640088312899162,
+                        "inventory": 26062.82192787075,
+                        "fdos": 1.7874057710643751,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32032,
+                        "name": "HV ScrtSce Smkhs 6/12fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 18803.48535603148,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33207,
+                        "name": "HV ScrtSce Spcy 6/12fo HNG1",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33588,
+                        "name": "BHV EZS Blstd Zsty Rnch Chp 6/12fo PK01",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 34279,
+                        "name": "BHV GrkYogDrsng Rnch 6/12fo PK01",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 665.4332148452304,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 34284,
+                        "name": "BHV SRnch ClscRnch 6/12fo PK01",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 3569.1153353084624,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 34292,
+                        "name": "BHV PlntPwd ClasRnch DrsngDpSce 6/12fo",
+                        "volume_msc": 15069.293292909097,
+                        "volume_percent": 0.3705507201027338,
+                        "inventory": 19222.064721069008,
+                        "fdos": 1.3251859994554167,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 34403,
+                        "name": "HV ScrtSce Gldn 6/12oz",
+                        "volume_msc": 6388.675784335861,
+                        "volume_percent": 0.15709618005129045,
+                        "inventory": 15767.551426751648,
+                        "fdos": 1.8245811370858322,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 34404,
+                        "name": "HV ScrtSce Cjn 6/12fo",
+                        "volume_msc": 31835.000000000015,
+                        "volume_percent": 0.782815885601046,
+                        "inventory": 81936.99999999999,
+                        "fdos": 1.8942444689373361,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 61964,
+                        "name": "BHV PlntPwdSpcyRnchDrsngDpSce6/12fo",
+                        "volume_msc": 5523.459869132972,
+                        "volume_percent": 0.13582070454019673,
+                        "inventory": 14421.66702914022,
+                        "fdos": 1.7860749402093168,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Salad Dressing-Farmhouse",
+                "volume_msc": 21226.25,
+                "volume_percent": 0.52,
+                "inventory": 32752.45,
+                "fdos": 1.38,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 26325,
+                        "name": "BHV SWChptl 6/16fo PK03",
+                        "volume_msc": 21226.247540598783,
+                        "volume_percent": 0.5219489168048014,
+                        "inventory": 32752.45359615151,
+                        "fdos": 1.3799399267635841,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Salad Dressing-Cups",
+                "volume_msc": 14592.38,
+                "volume_percent": 0.36,
+                "inventory": 15486.9,
+                "fdos": 1.06,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 20038,
+                        "name": "BHV Cups OrRnch 6/8x1.5fo",
+                        "volume_msc": 14592.380945544723,
+                        "volume_percent": 0.35882354681684986,
+                        "inventory": 15486.898048977284,
+                        "fdos": 1.064397420362888,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20039,
+                        "name": "BHV Cups LtOrRnch 6/8x1.5fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "EB SV Mari/Dress",
+        "volume_msc": 123576.39,
+        "volume_percent": 3.04,
+        "inventory": 168623.26,
+        "fdos": 14.77,
+        "fdos_range": "35-45",
+        "subRows": [
+            {
+                "name": "Marinade",
+                "volume_msc": 123576.39,
+                "volume_percent": 3.04,
+                "inventory": 168623.26,
+                "fdos": 14.77,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 17952,
+                        "name": "SV VVTery 4/10lb",
+                        "volume_msc": 3779.6524692558796,
+                        "volume_percent": 0.0929408511067919,
+                        "inventory": 12003.586887831485,
+                        "fdos": 3.173168439250283,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20012,
+                        "name": "SV IslndTery 6/20oz",
+                        "volume_msc": 21979.80858544341,
+                        "volume_percent": 0.5404788227785565,
+                        "inventory": 23002.794871415368,
+                        "fdos": 1.1284850096815027,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20015,
+                        "name": "SV VVTery 6/21oz",
+                        "volume_msc": 48217.02678732289,
+                        "volume_percent": 1.1856464433977543,
+                        "inventory": 60738.40189747757,
+                        "fdos": 1.3485851635781663,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20017,
+                        "name": "SV GlazeMrnd HsinGrlcAsn 6/22oz",
+                        "volume_msc": 7813.502666652622,
+                        "volume_percent": 0.1921323703358506,
+                        "inventory": 7929.980918617367,
+                        "fdos": 1.0484875896173442,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20801,
+                        "name": "SV MrndSce VVTery LessSod 6/21oz",
+                        "volume_msc": 21783.226355603907,
+                        "volume_percent": 0.5356449075172015,
+                        "inventory": 23740.391596425416,
+                        "fdos": 1.2277700291146176,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 25430,
+                        "name": "SV MrndSce FlpnoAd GltFrNG 6/14.5oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 25433,
+                        "name": "SV MrndSce VVTery GltFrNG 6/15.3oz",
+                        "volume_msc": 1212.8004104031263,
+                        "volume_percent": 0.02982250439224234,
+                        "inventory": 2787.081431216794,
+                        "fdos": 2.3032691503878695,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26579,
+                        "name": "SV MrndSce AsHnyBBQ 6/21.5oz",
+                        "volume_msc": 2407.9923742288343,
+                        "volume_percent": 0.05921202082464298,
+                        "inventory": 4385.994224667298,
+                        "fdos": 1.8339842752254578,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26795,
+                        "name": "SV MrndDip SpcySwt 6/22.5oz",
+                        "volume_msc": 1380.0444202109347,
+                        "volume_percent": 0.0339349990568935,
+                        "inventory": 11088.55065318742,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 28512,
+                        "name": "SV MrndSce OrgGngr 6/19oz",
+                        "volume_msc": 1304.121132222272,
+                        "volume_percent": 0.0320680615376666,
+                        "inventory": 4482.902389501873,
+                        "fdos": 3.480010641330447,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 31674,
+                        "name": "SV VVTery 12/42oz VPal",
+                        "volume_msc": 13698.218703581033,
+                        "volume_percent": 0.33683628728131276,
+                        "inventory": 18142.767798161607,
+                        "fdos": 1.2229551498692703,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 31926,
+                        "name": "SV VVTery 24/21oz FS",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 320.8041534232809,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Dressing/Sauce",
+                "volume_msc": 0.0,
+                "volume_percent": 0.0,
+                "inventory": 0.0,
+                "fdos": 0.0,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 29823,
+                        "name": "SV DrsngSce TstSsme 6/12fo PK01",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "EB BBQ",
+        "volume_msc": 119477.49,
+        "volume_percent": 2.94,
+        "inventory": 173614.24,
+        "fdos": 18.66,
+        "fdos_range": "35-45",
+        "subRows": [
+            {
+                "name": "BBQ Sauce",
+                "volume_msc": 82686.93,
+                "volume_percent": 2.03,
+                "inventory": 122612.58,
+                "fdos": 14.27,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 136,
+                        "name": "KCM BBQ Or 4/158oz INST",
+                        "volume_msc": 23406.295302688577,
+                        "volume_percent": 0.5755558280513193,
+                        "inventory": 31807.39641856008,
+                        "fdos": 1.2810935848836427,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 336,
+                        "name": "KCM BBQ Or 1/5ga INST",
+                        "volume_msc": 1668.4913586937096,
+                        "volume_percent": 0.04102784798409009,
+                        "inventory": 2973.7425532905595,
+                        "fdos": 1.621548187903262,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 7171,
+                        "name": "KCM BBQ Or 4/158oz Displ",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 293.3439866029755,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 10462,
+                        "name": "KCM BBQ Or 9/63oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 14880,
+                        "name": "KCM BBQ Or 12/18oz PAK5",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 10192.0,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 15117,
+                        "name": "KCM BBQ PvtStkRes 6/2x45oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 15461,
+                        "name": "KCM BBQ Or 6/40oz",
+                        "volume_msc": 12513.533440422238,
+                        "volume_percent": 0.30770512838581543,
+                        "inventory": 16288.009780283843,
+                        "fdos": 1.1648759785084777,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 15472,
+                        "name": "KCM BBQ HickBrnSugr 6/40oz",
+                        "volume_msc": 2642.909623322394,
+                        "volume_percent": 0.06498858606391224,
+                        "inventory": 4925.903809516669,
+                        "fdos": 1.6002533129262484,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 15474,
+                        "name": "KCM BBQ SwtHnyMol 6/40oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 2818.90921563392,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 19718,
+                        "name": "KCM BBQ Or 240/2x40oz VPal",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20785,
+                        "name": "KCM BBQ Or 6/18oz",
+                        "volume_msc": 15002.48164531994,
+                        "volume_percent": 0.3689078358848613,
+                        "inventory": 17755.596933305627,
+                        "fdos": 1.2981350927990953,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20797,
+                        "name": "KCM BBQ Or 6/28oz",
+                        "volume_msc": 9007.995575881525,
+                        "volume_percent": 0.22150469716425308,
+                        "inventory": 11266.938929773563,
+                        "fdos": 1.3209402532826486,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20818,
+                        "name": "KCM BBQ SwtHnyMol 6/18oz",
+                        "volume_msc": 3352.976146509143,
+                        "volume_percent": 0.08244897099195024,
+                        "inventory": 6070.719967161804,
+                        "fdos": 2.574212637404667,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20820,
+                        "name": "KCM BBQ HickBrnSugr 6/18oz",
+                        "volume_msc": 5689.469745939209,
+                        "volume_percent": 0.1399028521365716,
+                        "inventory": 6657.381531928478,
+                        "fdos": 1.3516037922325292,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20830,
+                        "name": "KCM BBQ KenBbn 6/17oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20833,
+                        "name": "KCM BBQ HickBrnSugr 6/28oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20982,
+                        "name": "KCM BBQ KCClas 6/21oz",
+                        "volume_msc": 821.2863964066812,
+                        "volume_percent": 0.020195257978174574,
+                        "inventory": 2510.628282140822,
+                        "fdos": 3.991711143994284,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 28445,
+                        "name": "KCM PrmBlnd BBQ 4/158oz INST PK01",
+                        "volume_msc": 8581.487055740097,
+                        "volume_percent": 0.21101694327982073,
+                        "inventory": 9052.006518488244,
+                        "fdos": 1.0678764372112148,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Marinade",
+                "volume_msc": 36790.57,
+                "volume_percent": 0.9,
+                "inventory": 51001.66,
+                "fdos": 4.38,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 26247,
+                        "name": "KCM Mrnd ClasStkhs 6/16fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26262,
+                        "name": "KCM Mrnd HnyTery 6/16fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 26265,
+                        "name": "KCM Mrnd CarbJrk 6/16fo PK03",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 61890,
+                        "name": "KCM Mrnd CarbJrk 6/16fo PK04",
+                        "volume_msc": 10061.18465028056,
+                        "volume_percent": 0.2474023927188636,
+                        "inventory": 14054.391092978702,
+                        "fdos": 1.496566348156377,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 61891,
+                        "name": "KCM Mrnd HnyTery 6/16fo PK04",
+                        "volume_msc": 16943.044646607188,
+                        "volume_percent": 0.41662586774970506,
+                        "inventory": 23981.163082157786,
+                        "fdos": 1.3898233636502728,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 61892,
+                        "name": "KCM Mrnd ClasStkhs 6/16fo PK04",
+                        "volume_msc": 9786.338863404035,
+                        "volume_percent": 0.24064399321965005,
+                        "inventory": 12966.103483616225,
+                        "fdos": 1.4972406611330362,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Condiment",
+                "volume_msc": 0.0,
+                "volume_percent": 0.0,
+                "inventory": 0.0,
+                "fdos": 0.0,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 30762,
+                        "name": "KCM 816 BBQ Or 6/20oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 30763,
+                        "name": "KCM 816 BBQ Swt 6/20oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 30764,
+                        "name": "KCM 816 BBQ Hot 6/20oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "HV Adjacencies",
+        "volume_msc": 43881.98,
+        "volume_percent": 1.08,
+        "inventory": 77678.38,
+        "fdos": 13.16,
+        "fdos_range": "35-45",
+        "subRows": [
+            {
+                "name": "Brown & Seasoning Sauce",
+                "volume_msc": 24330.08,
+                "volume_percent": 0.6,
+                "inventory": 38224.3,
+                "fdos": 5.52,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 221,
+                        "name": "KitBouq 12/1Qt INST",
+                        "volume_msc": 5591.654670908492,
+                        "volume_percent": 0.13749760022561502,
+                        "inventory": 11019.601262078942,
+                        "fdos": 1.836775322999145,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 247,
+                        "name": "KitBouq 4/1Gal INST",
+                        "volume_msc": 4475.1986810748385,
+                        "volume_percent": 0.11004418466361648,
+                        "inventory": 6656.4466487131685,
+                        "fdos": 1.3259657752811398,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 2712,
+                        "name": "KitBouq 12/1qt CA",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 7536,
+                        "name": "KitBouq 12/114ml CA PAK1",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 112.0,
+                        "fdos": 1.1051643192488263,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 7681,
+                        "name": "KitBouq 12/4fo PAK1",
+                        "volume_msc": 14263.229344334895,
+                        "volume_percent": 0.35072977888224727,
+                        "inventory": 20436.251752800585,
+                        "fdos": 1.2480894177816848,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33045,
+                        "name": "KitBouq 6/4fo",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Pasta Salad Kit",
+                "volume_msc": 10274.3,
+                "volume_percent": 0.25,
+                "inventory": 15202.54,
+                "fdos": 3.12,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 20154,
+                        "name": "HV PstSal OrRnch 8/7.09oz",
+                        "volume_msc": 8704.919041523179,
+                        "volume_percent": 0.21405210958301782,
+                        "inventory": 12182.98435290657,
+                        "fdos": 1.4825048554103204,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20155,
+                        "name": "HV PstSal HmeItal 8/7.25oz",
+                        "volume_msc": 1569.3855116638522,
+                        "volume_percent": 0.03859085626394184,
+                        "inventory": 3019.559456088323,
+                        "fdos": 1.6366946643351286,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Dip-Ready to Eat",
+                "volume_msc": 9277.59,
+                "volume_percent": 0.23,
+                "inventory": 24251.53,
+                "fdos": 4.52,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 28494,
+                        "name": "HV RdyEat Dip ClasRnch 6/10oz",
+                        "volume_msc": 6162.705507368966,
+                        "volume_percent": 0.15153961895553567,
+                        "inventory": 12210.290870084074,
+                        "fdos": 2.274063612476226,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 28496,
+                        "name": "HV RdyEat Dip BcnRnch 6/10oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 30545,
+                        "name": "HV RdyEat Dip BffloRnch 6/10oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32165,
+                        "name": "HV RdyEat Dip FstaRnch 6/10oz",
+                        "volume_msc": 1725.9209116332556,
+                        "volume_percent": 0.04244002848806505,
+                        "inventory": 4742.5447728732925,
+                        "fdos": 3.2498719099834097,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32226,
+                        "name": "HV RdyEat Dip FrnchOnRnch 6/10oz",
+                        "volume_msc": 1388.9621662690251,
+                        "volume_percent": 0.03415428453759176,
+                        "inventory": 7298.696683868898,
+                        "fdos": -1.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32324,
+                        "name": "HV Dlx ChsRnchDip AgChdRnch 6/10oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 32325,
+                        "name": "HV Dlx ChsRnchDip GlcPrmRnch 6/10oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Dips - Refrigerated",
+                "volume_msc": 0.0,
+                "volume_percent": 0.0,
+                "inventory": 0.0,
+                "fdos": 0.0,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 33664,
+                        "name": "HV Refrig WhpDp ClasRnch 6/12oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33665,
+                        "name": "HV Refrig WhpDp FrnchOnRnch 6/12oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 33666,
+                        "name": "HV Refrig WhpDp SmkChpRnch 6/12oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            },
+            {
+                "name": "Toppings-Dry",
+                "volume_msc": 0.0,
+                "volume_percent": 0.0,
+                "inventory": 0.0,
+                "fdos": 0.0,
+                "fdos_range": "35-45",
+                "subRows": [
+                    {
+                        "Part": 20065,
+                        "name": "HVSalCrsp BacOnion 6/2.5oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    },
+                    {
+                        "Part": 20066,
+                        "name": "HVSalCrsp ItalParm 6/2.5oz",
+                        "volume_msc": 0.0,
+                        "volume_percent": 0.0,
+                        "inventory": 0.0,
+                        "fdos": 0.0,
+                        "fdos_range": "35-45"
+                    }
+                ]
+            }
+        ]
+    }
+]
